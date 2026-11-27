@@ -1,0 +1,26 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Servidor Spring Boot: archivos que se generan al compilar
+servidor-panaderia/target/
+servidor-panaderia/.idea/
+
+# Carpetas que NO son parte de este proyecto (otros trabajos y archivos de Oracle Data Modeler).
+# Si alguna si se debe entregar, borra su linea.
+/pi-gestion-tutorias/
+/practicaQuickSort/
+/businessinfo/
+/datatypes/
+/files/
+/logical/
+/pm/
+/ChangeRequests.local
